@@ -1,8 +1,8 @@
 - 👋 hi, I’m @phavanee
-- 👀 i'm interested in 
+- 👀 i'm interested in data science
 - 🌱 i'm currently learning C++
 - 💞️ looking to learn from all the wonderful people here on github 
-- 📫 How to reach me ...
+- 📫 reach me at @weekxndhoe (X)
 
 <!---
 phavanee/phavanee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
