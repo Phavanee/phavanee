@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phavanee
 - 👀 I'm interested in data science
-- 🎓 First year student in University of Technology, Malaysia
+- 🎓 First year bioinformatics student in University of Technology, Malaysia
 - 🌱 I'm currently learning C++
 - 💞️ Looking to learn from all the wonderful people here on github 
 - 📫 Reach me at @weekxndhoe (X)
