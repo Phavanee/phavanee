@@ -5,7 +5,6 @@
 
 <p align="center"> Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia. </p>
 
-<img href="https://github.com/phavanee/phavanee/assets/147310184/78106a42-0502-44ba-93b1-b03705f56359" align="right"/>
 **About Me**  
 - 👀 My field of interest is data science!
 - 🧬 I'm enrolled in Bachelor of Computer Science - Bioinformatics :)
