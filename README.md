@@ -3,13 +3,13 @@
   Welcome to my GitHub page!
 </h1>
 
-Hi there! My name is Phavanee but I go by kat online. I'm a first year computer science student from the University of Technology, Malaysia.   
+Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia.   
    
 **About Me**  
 - 👀 My field of interest is data science!
 - 🧬 I'm enrolled in Bachelor of Computer Science - Bioinformatics :)
 - 🌱 Currently learning C++
-- 📔 Huge <a href="https://www.homestuck.com/story" target="_blank">homestuck</a> nerd (please read it)
+- 📔 Huge <a href="https://www.homestuck.com/story" target="blank">homestuck</a> nerd (please read it)
 - 🐳 Ask me about anything <a href = "https://halfanowl.tumblr.com/ask">here!</a>
 
   
