@@ -31,17 +31,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   
 <br>
 
-**What's next?**
-- ➗ Learning MatLab and creating a program to solve equations through numerical methods
-- ☁️ Taking the AZ-900 certification
-- 🎇 Draft out a simple bioinformatics project
-<br>
-
 **Current Projects :3**     
 
 <a href="https://github.com/phavanee/backtracking-algo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=backtracking-algo&theme=transparent">
 </a>
+
+**What's next?**
+- ➗ Learning MatLab and creating a program to solve equations through numerical methods
+- ☁️ Taking the AZ-900 certification
+- 🎇 Draft out a simple bioinformatics project
+<br>
   
 <!---
 phavanee/phavanee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
