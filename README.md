@@ -11,7 +11,7 @@
 - 🌱 Currently learning C++
 - 📔 Huge <a href="https://www.homestuck.com/story">homestuck</a> nerd (please read it)
 - 🎸 I listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
-- 🐳 Ask me anything <a href = "https://halfanowl.tumblr.com/ask">here!</a>
+- 🐳 Ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
 
 
 **What I'm Learning**    
