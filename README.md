@@ -15,7 +15,10 @@ Hi there! My name is Phavanee (but I go by kat online). I'm a first year compute
 #### Current Projects :3    
 
 <a href="https://github.com/phavanee/backtracking-algo">
-  <img align="center" src="https://github.com/phavanee/backtracking-algo.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=backtracking-algo&theme=buefy">
+</a>
+<a href="https://github.com/phavanee/cpp-exercises">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=cpp-exercises&theme=buefy">
 </a>
 
   
