@@ -10,17 +10,28 @@
 - 🧬 I'm enrolled in Bachelor of Computer Science - Bioinformatics :)
 - 🌱 Currently learning C++
 - 📔 Huge <a href="https://www.homestuck.com/story">homestuck</a> nerd (please read it)
-- 🐳 Ask me about anything <a href = "https://halfanowl.tumblr.com/ask">here!</a>
+- 🎸 I listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
+- 🐳 Ask me anything <a href = "https://halfanowl.tumblr.com/ask">here!</a>
 
-#### Current Projects :3    
+**What I'm Learning**    
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![MicrosoftAzure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+
+**Skills/Familiar Software**    
+
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+**Current Projects :3**     
 
 <a href="https://github.com/phavanee/backtracking-algo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=backtracking-algo&theme=buefy">
 </a>
-<a href="https://github.com/phavanee/cpp-exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=cpp-exercises&theme=buefy">
-</a>
-
   
 <!---
 phavanee/phavanee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
