@@ -13,10 +13,12 @@
 - 🎸 I listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
 - 🐳 Ask me anything <a href = "https://halfanowl.tumblr.com/ask">here!</a>
 
+
 **What I'm Learning**    
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![MicrosoftAzure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+![MicrosoftAzure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)    
+
 
 **Skills/Familiar Software**    
 
@@ -24,7 +26,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    
 
 
 **Current Projects :3**     
