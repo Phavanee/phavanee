@@ -3,7 +3,7 @@
   Welcome to my GitHub page!
 </h1>
 
-Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia.   
+<p align = "center"> Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia. </p>
    
 **About Me**  
 - 👀 My field of interest is data science!
