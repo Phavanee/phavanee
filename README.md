@@ -12,14 +12,16 @@
 - 📔 Huge <a href="https://www.homestuck.com/story">homestuck</a> nerd (please read it)
 - 🎸 I listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
 - 🐳 Ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
-</ br>
+
+
 
 
 **What I'm Learning**    
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![MicrosoftAzure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)    
-</ br>    
+
+    
 
 
 **Skills/Familiar Software**    
@@ -29,7 +31,8 @@
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   
-</ br>    
+
+   
 
 
 **Current Projects :3**     
