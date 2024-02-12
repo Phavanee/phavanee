@@ -20,8 +20,7 @@
 **What I'm Learning**    
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![MicrosoftAzure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)    
-![Static Badge](https://img.shields.io/badge/GNU%20Octave%20-%20black?style=for-the-badge&logo=octave)
+![MicrosoftAzure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![Static Badge](https://img.shields.io/badge/MATLAB%20-%20orange?style=for-the-badge&logo=matlab)
 <br>
 
