@@ -35,9 +35,6 @@
 
 **Current Projects**     
 
-<a href="https://github.com/phavanee/backtracking-algo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=backtracking-algo&theme=transparent">
-</a>
 <a href="https://github.com/Phavanee/Technology-and-Information-Systems">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=Technology-and-Information-Systems&theme=transparent">
 </a>
