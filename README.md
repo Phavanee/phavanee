@@ -20,8 +20,8 @@
 **What I'm Learning**    
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![MicrosoftAzure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![Static Badge](https://img.shields.io/badge/MATLAB%20-%20orange?style=for-the-badge&logo=matlab)
+![Static Badge](https://img.shields.io/badge/R%20-%20blue?style=for-the-badge&logo=r)
 <br>
 
 **Skills/Familiar Software**    
@@ -42,7 +42,6 @@
 
 **What's next?**
 - ➗ Learning MatLab and creating a program to solve equations through numerical methods
-- ☁️ Taking the AZ-900 certification
 - 🎇 Draft out a simple bioinformatics project
 <br>
   
