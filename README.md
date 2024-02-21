@@ -17,12 +17,12 @@
 - 🐳 Ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
 <br><br>
 
-**Things I'm Learning (my brain hurts)**    
+**things I'm learning (my brain hurts)**    
 
 ![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=white)    
 
 
-**Things I've Learnt :O**    
+**things I've learnt or am familiar with :O**    
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
@@ -31,7 +31,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB%20-%20orange?style=for-the-badge&logo=matlab)
-![R](https://img.shields.io/badge/R%20-%20blue?style=for-the-badge&logo=r)    
+![R](https://img.shields.io/badge/R%20-%20blue?style=for-the-badge&logo=r)
+![Static Badge](https://img.shields.io/badge/BASH%20-%20purple?style=for-the-badge&logo=gnubash&logoColor=white)    
 <br>
 
 **Current Projects**     
