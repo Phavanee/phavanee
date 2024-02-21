@@ -41,10 +41,6 @@
 </a>
 <br><br><br>
 
-**What's next?**
-- ➗ Learning MatLab and creating a program to solve equations through numerical methods
-- 🎇 Draft out a simple bioinformatics project
-<br>
   
 <!---
 phavanee/phavanee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
