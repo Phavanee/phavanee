@@ -1,6 +1,6 @@
 <h1 align = "center">
   <img src="https://media.giphy.com/media/Jo75g5HXkwpESvld1E/giphy.gif" width="30" height="30" frameBorder="0"/>
-  Welcome to my GitHub page!
+  welcome to my github page!
 </h1>
 
 <p align="center"> Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia. </p>
@@ -8,21 +8,21 @@
 <!-- <img align="right" src="https://i.redd.it/r2t5b3qjmp8a1.jpg" height="350"/> cat picture that won't be appreciated-->
 <img align="right" src="https://media.giphy.com/media/Jo75g5HXkwpESvld1E/giphy.gif" height="350" frameBorder="0"/>
 
-**About Me**  
-- 👀 My field of interest is data science!
-- 🧬 I'm enrolled in Bachelor of Computer Science - Bioinformatics :)
-- 🌱 Currently learning C++
-- 📔 Huge <a href="https://www.homestuck.com/story">homestuck</a> nerd (please read it)
-- 🎸 I listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
-- 🐳 Ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
+**about Me**  
+- 👀 my field of interest is data science!
+- 🧬 i'm enrolled in Bachelor of Computer Science - Bioinformatics :)
+- 🌱 currently learning C++
+- 📔 huge <a href="https://www.homestuck.com/story">homestuck</a> nerd (please read it)
+- 🎸 i listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
+- 🐳 ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
 <br><br>
 
-**things I'm learning (my brain hurts)**    
+**things i'm learning (my brain hurts)**    
 
 ![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=white)    
 
 
-**things I've learnt or am familiar with :O**    
+**things i've learnt/am familiar with :O**    
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
