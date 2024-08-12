@@ -17,9 +17,9 @@
 - 🐳 ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
 <br><br>
 
-**things i'm learning (my brain hurts)**    
+**things i'm learning**    
 
-![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=white)    
+![Static Badge](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e)    
 
 
 **things i've learnt/am familiar with :O**    
@@ -33,6 +33,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB%20-%20orange?style=for-the-badge&logo=matlab)
 ![R](https://img.shields.io/badge/R%20-%20blue?style=for-the-badge&logo=r)
 ![Static Badge](https://img.shields.io/badge/BASH%20-%20purple?style=for-the-badge&logo=gnubash&logoColor=white)    
+![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=white)    
 <br>
 
 **Current Projects**     
