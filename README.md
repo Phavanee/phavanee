@@ -3,12 +3,12 @@
   welcome to my github page!
 </h1>
 
-<p align="center"> Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia. </p>
+<p align="left"> Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia. </p>
 
 <!-- <img align="right" src="https://i.redd.it/r2t5b3qjmp8a1.jpg" height="350"/> cat picture that won't be appreciated-->
 <img align="right" src="https://media.giphy.com/media/Jo75g5HXkwpESvld1E/giphy.gif" height="350" frameBorder="0"/>
 
-**about Me**  
+**about me**  
 - 👀 my field of interest is data science!
 - 🧬 i'm enrolled in Bachelor of Computer Science - Bioinformatics :)
 - 🌱 currently learning C++
