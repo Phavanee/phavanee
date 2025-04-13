@@ -11,7 +11,7 @@
 **about me**  
 - 👀 my field of interest is data science!
 - 🧬 i'm enrolled in Bachelor of Computer Science - Bioinformatics :)
-- 🌱 currently learning C++
+- 🌱 currently learning java
 - 📔 huge <a href="https://www.homestuck.com/story">homestuck</a> nerd (please read it)
 - 🎸 i listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
 - 🐳 ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
