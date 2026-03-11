@@ -3,15 +3,15 @@
   welcome to my github page!
 </h1>
 
-<p align="left"> Hi there! My name is Phavanee (but I go by kat online). I'm a first year computer science student from the University of Technology, Malaysia. </p>
+<p align="left"> Hi there! My name is Phavanee (but I go by kat online). I'm a first-year computer science student from University Technology Malaysia. </p>
 
 <!-- <img align="right" src="https://i.redd.it/r2t5b3qjmp8a1.jpg" height="350"/> cat picture that won't be appreciated-->
 <img align="right" src="https://media.giphy.com/media/Jo75g5HXkwpESvld1E/giphy.gif" height="350" frameBorder="0"/>
 
 **about me**  
-- 👀 my field of interest is data science!
+- 👀 my field of interest is llms!
 - 🧬 i'm enrolled in Bachelor of Computer Science - Bioinformatics :)
-- 🌱 currently learning java
+- 🌱 currently learning langgraph
 - 📔 huge <a href="https://www.homestuck.com/story">homestuck</a> nerd (please read it)
 - 🎸 i listen to <a href="https://www.last.fm/user/katriya0972">music</a>, kinda
 - 🐳 ask me anything <a href = "https://halfanowl.tumblr.com/ask">here</a>!
