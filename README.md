@@ -18,8 +18,10 @@
 <br><br>
 
 **things i'm learning**    
+![langchain](https://img.shields.io/badge/langchain-%231C3C3C?style=for-the-badge&logo=langchain)
+![Static Badge](https://img.shields.io/badge/langgraph-%231C3C3C?style=for-the-badge&logo=langgraph)    
 
-![Static Badge](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e)    
+   
 
 
 **things i've learnt/am familiar with :O**    
@@ -33,15 +35,9 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB%20-%20orange?style=for-the-badge&logo=matlab)
 ![R](https://img.shields.io/badge/R%20-%20blue?style=for-the-badge&logo=r)
 ![Static Badge](https://img.shields.io/badge/BASH%20-%20purple?style=for-the-badge&logo=gnubash&logoColor=white)    
-![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=white)    
+![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&color=white)
+![Javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e)    
 <br>
-
-**Current Projects**     
-
-<a href="https://github.com/Phavanee/landing-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phavanee&repo=landing-page&theme=transparent">
-</a>
-<br><br><br>
 
   
 <!---
